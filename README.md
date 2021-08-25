@@ -6,7 +6,7 @@
   <a href="https://github.com/BatistaAlexandre"><img height="150" width="202" alt="Xande-programando" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" >
   </div>
   
-  <h2 align="center">Technology Stack <img src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47pr2ts3wledqse5cn198jmsbvw7cs4w64igohr0kf&rid=giphy.gif&ct=g" width="170"></h2>
+  <h2 align="center">Technology Stack </h2>
 
  <div style="display: inline_block"><br>
   <p align="center">
