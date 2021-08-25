@@ -3,7 +3,7 @@
   <a href="https://github.com/rafaballerini">
   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=BatistaAlexandre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatistaAlexandre&layout=compact&langs_count=7&theme=dark"/>
-  <a href="https://github.com/BatistaAlexandre"><img height="150" width="202" alt="Xande-programando" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" >
+  <a href="https://github.com/BatistaAlexandre"><img height="150" width="202" align="center" alt="Xande-programando" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" >
   </div>
   
   <h2 align="center">Technology Stack </h2>
