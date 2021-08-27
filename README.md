@@ -7,8 +7,7 @@
 </div>
   
   <h2 align="center">Technology Stack </h2>
-
- <div style="display: inline_block"><br>
+<div style="display: inline_block">
   <p align="center">
   <img align="center" alt="Xande-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Xande-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,7 +15,6 @@
  <img align="center" alt="Xande-Git" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
 <img align="center" alt="Xande-Github" height="50" width="50" src="https://www.iconninja.com/files/604/580/1001/github-development-code-coding-program-programming-icon.svg"/>
    
-    
 </div>
   
  
