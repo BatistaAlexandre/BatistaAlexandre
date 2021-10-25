@@ -1,5 +1,5 @@
 <h2 align="center">Hi! I'm Alexandre Batista </h2>
-  <h2 align="center">------------------------------------------------- </h2>
+  
 </div>
   
   <h2 align="center">Technology Stack </h2>
@@ -12,7 +12,7 @@
 <img align="center" alt="Xande-Github" height="50" width="50" src="https://www.iconninja.com/files/604/580/1001/github-development-code-coding-program-programming-icon.svg"/>
    
 </div>
-  <h2 align="center">------------------------------------------------- </h2>
+ 
 
 <div>
   <a href="https://github.com/BatistaAlexandre">
@@ -21,7 +21,7 @@
   <a href="https://github.com/BatistaAlexandre"><img height="125" width="202" alt="Xande-programando" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" >
 </div>
 
-<h2 align="center">------------------------------------------------- </h2>
+
 <div>
 
   <h2 align="center">Languages </h2>
@@ -31,7 +31,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" target="_blank"width ="30">
 
 </div>  
- <h2 align="center">------------------------------------------------- </h2>
 <div> 
   <h2 align="center">Reach me on  <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
   <p align="center">
@@ -39,11 +38,9 @@
   <a href = "mailto:abatista223@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/-alexandre-batista-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href="https://wa.me/qr/GYXMISFCZM33I1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
-<h2 align="center">------------------------------------------------- </h2>
  <p align="center">
   <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> 
 </div>
-
 
 
