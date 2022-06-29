@@ -12,7 +12,7 @@
   <img align="center" alt="Xande-Git" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
   <img align="center" alt="Xande-Github" height="50" width="50" src="https://www.iconninja.com/files/604/580/1001/github-development-code-coding-program-programming-icon.svg"/>
   <img align="center" alt="Xande-Github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg"/>
-   
+   <img align="center" alt="Xande-Github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg"/>
 </div>
  
 
