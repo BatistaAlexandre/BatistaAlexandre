@@ -14,6 +14,8 @@
   <img align="center" alt="Xande-Github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg"/>
 <img align="center" alt="Xande-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Xande-Github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg"/>
+<img alt="Xande-Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img alt="Xande-Next.js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
  
 
@@ -21,7 +23,6 @@
   <a href="https://github.com/BatistaAlexandre">
   <img height="124em"  src="https://github-readme-stats.vercel.app/api?username=BatistaAlexandre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="124em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatistaAlexandre&layout=compact&langs_count=7&theme=dark"/>
-  <a href="https://github.com/BatistaAlexandre"><img height="122" width="189" alt="Xande-programando" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" >
 </div>
 
 
