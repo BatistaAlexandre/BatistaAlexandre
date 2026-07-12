@@ -69,7 +69,7 @@ I work across the entire product development cycle — from interface and archit
 
 <div align="center">
 
-<img src=".logo-light.jpg" alt="ACE DIGITAL" width="170" />
+<img src="./logo-light.jpg" alt="ACE DIGITAL" width="170" />
 
 ## Founder of ACE DIGITAL
 
