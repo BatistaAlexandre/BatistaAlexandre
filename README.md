@@ -69,12 +69,21 @@ I work across the entire product development cycle — from interface and archit
 
 <div align="center">
 
-<img src="./logo-dark.png" alt="ACE DIGITAL" width="170" />
+<a href="https://acedigitalbr.com/" target="_blank">
+  <img src="./logo-dark.png" alt="ACE DIGITAL" width="170" />
+</a>
 
-## Founder of ACE DIGITAL
+## [Founder of ACE DIGITAL](https://acedigitalbr.com/)
 
 ACE DIGITAL is a technology company focused on building modern digital products, scalable web platforms and automation solutions for businesses.
 
+<br />
+
+<a href="https://acedigitalbr.com/">
+  <img src="https://img.shields.io/badge/Visit-ACE_DIGITAL-C9A86A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit ACE DIGITAL website" />
+</a>
+
+<br />
 <br />
 
 `SaaS` · `Web Development` · `Automation` · `Digital Products`
